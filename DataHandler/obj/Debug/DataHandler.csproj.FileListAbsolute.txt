@@ -1,0 +1,7 @@
+C:\Users\david\source\repos\RSSReader\DataHandler\bin\Debug\DataHandler.pdb
+C:\Users\david\source\repos\RSSReader\DataHandler\obj\Debug\DataHandler.csprojResolveAssemblyReference.cache
+C:\Users\david\source\repos\RSSReader\DataHandler\obj\Debug\DataHandler.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\RSSReader\DataHandler\obj\Debug\DataHandler.pdb
+C:\Users\david\source\repos\RSSReader\DataHandler\bin\Debug\DataHandler.dll.config
+C:\Users\david\source\repos\RSSReader\DataHandler\bin\Debug\DataHandler.dll
+C:\Users\david\source\repos\RSSReader\DataHandler\obj\Debug\DataHandler.dll
