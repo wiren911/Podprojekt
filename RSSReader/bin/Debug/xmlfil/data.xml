@@ -1,0 +1,626 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Web Shows - Google Developers</title>
+    <link>https://youtube.com/user/ChromeDevelopers/</link>
+    <description>YouTube videos from the Google Chrome Developers team</description>
+    <pubDate>Sun, 22 Oct 2017 23:15:32 -0400</pubDate>
+    <lastBuildDate>Sun, 22 Oct 2017 23:15:32 -0400</lastBuildDate>
+    <generator>HandlebarsJS</generator>
+    <image>
+      <url>https://developers.google.com/web/images/web-fundamentals-icon192x192.png</url>
+      <title>Web Shows - Google Developers</title>
+      <link>https://youtube.com/user/ChromeDevelopers/</link>
+    </image>
+    <atom:link href="https://developers.google.com/web/shows/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Caching Strategies: Micro Tip #19 - Supercharged</title>
+      <pubDate>19 Oct 2017 12:01:49 GMT</pubDate>
+      <link>https://youtu.be/TtXvE814SQA</link>
+      <guid isPermaLink="true">https://youtu.be/TtXvE814SQA</guid>
+      <description><![CDATA[
+          <img src="https://ga-beacon.appspot.com/UA-52746336-1/web/videos/TtXvE814SQA?feed_type=rss&pixel">
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/TtXvE814SQA" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>In this video Surma explains a simple but very widely applicable caching strategy for your ServiceWorkers<br>
+<br>
+If you have questions or suggestions, hit us up on Twitter!<br>
+Surma: https://twitter.com/DasSurma<br>
+<br>
+Watch more episodes of Supercharged here: https://goo.gl/WFD8py<br>
+Subscribe to the Chrome Developers channel at http://goo.gl/LLLNvf
+        ]]></description>
+    </item>
+    <item>
+      <title>Chrome 62: Improved Network Information API, Support for OpenType Variable Fonts and more!</title>
+      <pubDate>17 Oct 2017 14:51:11 GMT</pubDate>
+      <link>https://youtu.be/jO8iVc4hEe8</link>
+      <guid isPermaLink="true">https://youtu.be/jO8iVc4hEe8</guid>
+      <description><![CDATA[
+          <img src="https://ga-beacon.appspot.com/UA-52746336-1/web/videos/jO8iVc4hEe8?feed_type=rss&pixel">
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/jO8iVc4hEe8" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>Chrome 62 improves the network information API with network quality indicators, support for OpenType Variable Fonts has landed, and you can now capture and process media streams from HTMLMediaElements with the Media Capture from DOM elements API.<br>
+<br>
+Pete LePage has all the details and how you can use these new developer features in Chrome 62!<br>
+<br>
+Chrome 62 Beta blog post: https://goo.gl/3YgpW1<br>
+<br>
+Network Information API<br>
+Spec: https://goo.gl/5rr3Uq<br>
+Chrome Status: https://goo.gl/WUocPG<br>
+Demo: https://goo.gl/Hszvh7<br>
+<br>
+OpenType Variable Fonts<br>
+CSS Properties: https://goo.gl/A4LzFc<br>
+CSS Properties: https://goo.gl/oA6kfN<br>
+<br>
+Media Capture from DOM Elements API<br>
+Spec: https://goo.gl/7syXM1<br>
+Demo: https://goo.gl/YW5TzK<br>
+<br>
+Next steps toward more connection security: https://goo.gl/sqpsCo<br>
+<br>
+You can learn more about origin trials at https://goo.gl/6FP1a5<br>
+<br>
+Subscribe to the Google Developers channel at https://goo.gl/WkxCU5
+        ]]></description>
+    </item>
+    <item>
+      <title>Testing Shadow DOM with aXe Coconut - A11ycasts #26</title>
+      <pubDate>13 Oct 2017 19:31:16 GMT</pubDate>
+      <link>https://youtu.be/1uyQdC3LqLo</link>
+      <guid isPermaLink="true">https://youtu.be/1uyQdC3LqLo</guid>
+      <description><![CDATA[
+          <img src="https://ga-beacon.appspot.com/UA-52746336-1/web/videos/1uyQdC3LqLo?feed_type=rss&pixel">
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/1uyQdC3LqLo" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>Today we're going to look at aXe Coconut, the leading edge of the aXe developer toolchain. You can think of aXe Coconut kind of like Chrome Canary or Firefox Nightly. It's a preview channel for developers to test out new versions of the library and offer feedback before they hit the stable version. One of the coolest features in the latest version of aXe Coconut is the ability to inspect Shadow DOM! This is huge for anyone doing Web Component accessibility testing. Today we'll walk through inspecting a media player created with Shadow DOM and show off some of the new audits made possible by aXe Coconut.<br>
+<br>
+aXe-Coconut by Deque: https://goo.gl/k85bPE<br>
+<br>
+Shadow DOM explainer: https://goo.gl/nsGeHc<br>
+<br>
+Watch all A11ycasts episodes: https://goo.gl/06qEUW<br>
+<br>
+Subscribe to the Chrome Developers YouTube channel for updates on new episodes of A11ycasts: http://goo.gl/LLLNvf
+        ]]></description>
+    </item>
+    <item>
+      <title>Chrome 62 - What's New in DevTools</title>
+      <pubDate>13 Oct 2017 16:28:09 GMT</pubDate>
+      <link>https://youtu.be/eD4fiqjaxHw</link>
+      <guid isPermaLink="true">https://youtu.be/eD4fiqjaxHw</guid>
+      <description><![CDATA[
+          <img src="https://ga-beacon.appspot.com/UA-52746336-1/web/videos/eD4fiqjaxHw?feed_type=rss&pixel">
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/eD4fiqjaxHw" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>New to DevTools in Chrome 62: screenshots of HTML nodes and portions of the viewport, top-level await operators in the Console, negative and URL filters in the Console, the new queryObjects API, CSS Grid highlighting, HAR imports, block-level code coverage, and improved cache debugging.<br>
+<br>
+Check out the blog version of these release notes here: https://goo.gl/kBbs1B<br>
+<br>
+Discuss these features and changes on the mailing list:https://goo.gl/RvWtFx<br>
+<br>
+Or send us a tweet:<br>
+https://twitter.com/chromedevtools<br>
+<br>
+Subscribe to the Google Chrome Developers channel: http://goo.gl/LLLNvf
+        ]]></description>
+    </item>
+    <item>
+      <title>CSS Grid: Micro Tip #18 - Supercharged</title>
+      <pubDate>12 Oct 2017 12:02:58 GMT</pubDate>
+      <link>https://youtu.be/AqwPrR7hklE</link>
+      <guid isPermaLink="true">https://youtu.be/AqwPrR7hklE</guid>
+      <description><![CDATA[
+          <img src="https://ga-beacon.appspot.com/UA-52746336-1/web/videos/AqwPrR7hklE?feed_type=rss&pixel">
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/AqwPrR7hklE" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>CSS Grid is the next-generation layout for the web. Surma explains the basics.<br>
+<br>
+For more about Grid, look at Rachel Andrew’s https://gridbyexample.com/<br>
+<br>
+If you have questions or suggestions, hit us up on Twitter!<br>
+Surma: https://twitter.com/DasSurma<br>
+<br>
+Watch more episodes of Supercharged here: https://goo.gl/WFD8py<br>
+Subscribe to the Chrome Developers channel at http://goo.gl/LLLNvf
+        ]]></description>
+    </item>
+    <item>
+      <title>How the Web Competes with Native -- Designer vs. Developer #12</title>
+      <pubDate>11 Oct 2017 11:59:50 GMT</pubDate>
+      <link>https://youtu.be/x2o-oy0o5Mo</link>
+      <guid isPermaLink="true">https://youtu.be/x2o-oy0o5Mo</guid>
+      <description><![CDATA[
+          <img src="https://ga-beacon.appspot.com/UA-52746336-1/web/videos/x2o-oy0o5Mo?feed_type=rss&pixel">
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/x2o-oy0o5Mo" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>Welcome to Designer vs. Developer, a show that tries to solve the challenges faced in the industry by opening a conversation between the two, providing take aways, solutions to workflows, tools & discussions on everyday struggles. <br>
+<br>
+Mustafa speaks to Matt Gaunt, a Developer Programs Engineer on the Google Developers Relations Team, about progressive web apps and the challenges web developers face when compared to their native counterparts. <br>
+<br>
+For unedited conversations subscribe to or download our podcast from these services;<br>
+iTunes: https://goo.gl/1E9U0G <br>
+Google Music: https://goo.gl/qCBlST (USA ONLY)<br>
+Web Fundamentals: https://goo.gl/Kt3nE9<br>
+Feedburner: https://goo.gl/USHXv8<br>
+<br>
+Read our blog post here: <br>
+https://goo.gl/VRKKW2<br>
+<br>
+Learn more about the subjects mentioned in our video:<br>
+Progressive Web Apps <br>
+https://goo.gl/Wc6RbX<br>
+<br>
+UI Element Samples <br>
+https://goo.gl/bpSb6F<br>
+<br>
+Reusable Web Components <br>
+https://goo.gl/g3KRQJ<br>
+<br>
+Watch the rest of the series: https://goo.gl/eIk8r6<br>
+<br>
+Subscribe to the Chrome Developers Channel: http://goo.gl/LLLNvf
+        ]]></description>
+    </item>
+    <item>
+      <title>Imposter Syndrome - HTTP203</title>
+      <pubDate>10 Oct 2017 12:00:05 GMT</pubDate>
+      <link>https://youtu.be/VNr1Kb07aME</link>
+      <guid isPermaLink="true">https://youtu.be/VNr1Kb07aME</guid>
+      <description><![CDATA[
+          <img src="https://ga-beacon.appspot.com/UA-52746336-1/web/videos/VNr1Kb07aME?feed_type=rss&pixel">
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/VNr1Kb07aME" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>Surma and Jake Archibald discuss how they feel about imposter syndrome and whether it really matters that you can't remember technical stuff by heart if you can look it up. Plus a little Flexbox hack! #HTTP203<br>
+<br>
+Subscribe to Chrome Developers here: http://goo.gl/LLLNvf<br>
+<br>
+Watch more HTTP203 here: https://goo.gl/bTQMrY<br>
+<br>
+Check out the HTTP203 podcast for the full conversation: https://goo.gl/LR7gNg<br>
+Itunes link: https://goo.gl/cf2yRq
+        ]]></description>
+    </item>
+    <item>
+      <title>Uploading an Image - Developer Diary #Day1</title>
+      <pubDate>09 Oct 2017 12:00:04 GMT</pubDate>
+      <link>https://youtu.be/5l6hecmxYwk</link>
+      <guid isPermaLink="true">https://youtu.be/5l6hecmxYwk</guid>
+      <description><![CDATA[
+          <img src="https://ga-beacon.appspot.com/UA-52746336-1/web/videos/5l6hecmxYwk?feed_type=rss&pixel">
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/5l6hecmxYwk" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>In this Developer Diary series, Mat Scales is talking you through how to build a camera app. Today Mat looks at how to 'progressively enhance capturing an image' and how to upload that image to your app. <br>
+<br>
+Next episode to be released on 22nd October!<br>
+<br>
+Previous episode, "Creating a Camera App": https://goo.gl/8nQ1TH<br>
+<br>
+Check out the code here: https://goo.gl/Kvrsor<br>
+<br>
+Watch the rest of the series here: https://goo.gl/vZQtLZ<br>
+<br>
+Subscribe to the Chrome Developers channel for the latest videos here: http://goo.gl/LLLNvf
+        ]]></description>
+    </item>
+    <item>
+      <title>Totally Tooling Tips: Managing Your Bundle Size</title>
+      <pubDate>06 Oct 2017 13:03:39 GMT</pubDate>
+      <link>https://youtu.be/Da6VxdGU2Ig</link>
+      <guid isPermaLink="true">https://youtu.be/Da6VxdGU2Ig</guid>
+      <description><![CDATA[
+          <img src="https://ga-beacon.appspot.com/UA-52746336-1/web/videos/Da6VxdGU2Ig?feed_type=rss&pixel">
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Da6VxdGU2Ig" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>The amount of JavaScript you send to your users can affect your load and parse time of your Javascript resulting in a slow feeling site. <br>
+<br>
+In this episode, learn how to keep track of your bundle size during development and get accustomed with tools that will help you track your bundle size over time.<br>
+<br>
+Links from the episode:<br>
+Bundlesize: https://github.com/siddharthkp/bundlesize<br>
+Lighthouse: https://developers.google.com/web/tools/lighthouse/<br>
+Calibre: https://calibreapp.com/<br>
+pr-bot: https://github.com/GoogleChromeLabs/pr-bot<br>
+vscode-import: https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost<br>
+speedcurve: https://speedcurve.com/<br>
+<br>
+Watch more episodes of Totally Tooling Tips here: https://goo.gl/IoXka7?<br>
+<br>
+Subscribe to the Chrome Developers channel at http://goo.gl/LLLNvf
+        ]]></description>
+    </item>
+    <item>
+      <title>Aspect Ratio Hack: Micro Tip #17 - Supercharged</title>
+      <pubDate>05 Oct 2017 11:56:32 GMT</pubDate>
+      <link>https://youtu.be/ht5oFxpADt4</link>
+      <guid isPermaLink="true">https://youtu.be/ht5oFxpADt4</guid>
+      <description><![CDATA[
+          <img src="https://ga-beacon.appspot.com/UA-52746336-1/web/videos/ht5oFxpADt4?feed_type=rss&pixel">
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ht5oFxpADt4" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>Surma shows you how you can make an element maintain an aspect ratio with CSS.<br>
+<br>
+If you have questions or suggestions, hit us up on Twitter!<br>
+Surma: https://twitter.com/DasSurma<br>
+<br>
+Watch more episodes of Supercharged here: https://goo.gl/WFD8py<br>
+Subscribe to the Chrome Developers channel at http://goo.gl/LLLNvf
+        ]]></description>
+    </item>
+    <item>
+      <title>How to build a toggle button - A11ycasts #25</title>
+      <pubDate>29 Sep 2017 13:04:30 GMT</pubDate>
+      <link>https://youtu.be/16gvkPfPIx4</link>
+      <guid isPermaLink="true">https://youtu.be/16gvkPfPIx4</guid>
+      <description><![CDATA[
+          <img src="https://ga-beacon.appspot.com/UA-52746336-1/web/videos/16gvkPfPIx4?feed_type=rss&pixel">
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/16gvkPfPIx4" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>Today we'll walk through building an accessible toggle button. A toggle button is just a button with two states: pressed, and unpressed. It's a pretty simple control, but it'll allow us to show off a number of best practices for building accessible custom elements.<br>
+<br>
+ARIA Authoring Practices 1.1: Button: https://goo.gl/bx42jW<br>
+<br>
+Custom elements: https://goo.gl/9xUH4Y<br>
+<br>
+HowTo: Components: https://goo.gl/MfL1f5<br>
+<br>
+Watch all A11ycasts episodes: https://goo.gl/06qEUW<br>
+<br>
+Subscribe to the Chrome Developers YouTube channel for updates on new episodes of A11ycasts: http://goo.gl/LLLNvf
+        ]]></description>
+    </item>
+    <item>
+      <title>WebGL Image Processing: Live Code Session - Supercharged</title>
+      <pubDate>28 Sep 2017 11:12:17 GMT</pubDate>
+      <link>https://youtu.be/_ZQOUQsw_YI</link>
+      <guid isPermaLink="true">https://youtu.be/_ZQOUQsw_YI</guid>
+      <description><![CDATA[
+          <img src="https://ga-beacon.appspot.com/UA-52746336-1/web/videos/_ZQOUQsw_YI?feed_type=rss&pixel">
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/_ZQOUQsw_YI" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>In this Supercharged Live Code Session Mat Scales joins Surma to show you how to use WebGL to add effects to an image. <br>
+<br>
+The code can be found here: https://github.com/GoogleChromeLabs/ui-element-samples/tree/gh-pages/webgl-image-processing<br>
+<br>
+Send your questions and ideas to the guys and they will read them live or answer them in the comments below.<br>
+Will there be bugs? Watch and see.
+        ]]></description>
+    </item>
+    <item>
+      <title>Designing for the Next Billion Users -- Designer vs. Developer #11</title>
+      <pubDate>27 Sep 2017 12:07:06 GMT</pubDate>
+      <link>https://youtu.be/sZQ1DESaDfg</link>
+      <guid isPermaLink="true">https://youtu.be/sZQ1DESaDfg</guid>
+      <description><![CDATA[
+          <img src="https://ga-beacon.appspot.com/UA-52746336-1/web/videos/sZQ1DESaDfg?feed_type=rss&pixel">
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/sZQ1DESaDfg" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>Mustafa Kurtuldu speaks to Sam Dutton, a Developer Advocate on the Google Developers Relations Team, about why we need to design for the next billion users. We also talk about whether it is worth creating a website for everyone.<br>
+<br>
+Designer Vs Developer is a show that tries to solve the challenges faced in the industry by opening a conversation between the two, providing take aways, solutions to workflows, tools & discussions on everyday struggles. <br>
+<br>
+Subscribe to Chrome Developers here: http://goo.gl/LLLNvf<br>
+<br>
+For unedited conversations subscribe to or download our podcast from these services;<br>
+iTunes: https://goo.gl/1E9U0G <br>
+Google Music: https://goo.gl/qCBlST (USA ONLY)<br>
+Web Fundamentals: https://goo.gl/Kt3nE9<br>
+Feedburner: https://goo.gl/USHXv8<br>
+<br>
+Read our blog post here: <br>
+https://goo.gl/CKruDT<br>
+<br>
+Learn more about the subjects mentioned in our video:<br>
+Understand the cost of loading page and app components: <br>
+https://goo.gl/CQtEji<br>
+<br>
+Understanding Low Bandwidth and High Latency:<br>
+https://goo.gl/1b5DHE<br>
+<br>
+WomenTechmakers.com—A Progressive Web App Migration: <br>
+https://goo.gl/VK18wE<br>
+<br>
+Watch the rest of the series: https://goo.gl/eIk8r6<br>
+<br>
+Subscribe to the Chrome Developers Channel: http://goo.gl/LLLNvf
+        ]]></description>
+    </item>
+    <item>
+      <title>Web Standards &amp; Flash - HTTP203</title>
+      <pubDate>26 Sep 2017 12:03:29 GMT</pubDate>
+      <link>https://youtu.be/RUEKVj3jE-E</link>
+      <guid isPermaLink="true">https://youtu.be/RUEKVj3jE-E</guid>
+      <description><![CDATA[
+          <img src="https://ga-beacon.appspot.com/UA-52746336-1/web/videos/RUEKVj3jE-E?feed_type=rss&pixel">
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/RUEKVj3jE-E" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>Jake Archibald and Surma talk about their experiences with Flash in HTTP203. Which web standards were inspired by Flash? What could Flash do that we're still struggling with today?<br>
+<br>
+Join the discussion and comment below!<br>
+<br>
+Check out the HTTP203 podcast: https://goo.gl/LR7gNg<br>
+Itunes link: https://goo.gl/cf2yRq<br>
+<br>
+Watch more HTTP203 here: https://goo.gl/bTQMrY<br>
+<br>
+Subscribe to Chrome Developers here: http://goo.gl/LLLNvf
+        ]]></description>
+    </item>
+    <item>
+      <title>Creating a Camera App - Developer Diary #Day0</title>
+      <pubDate>25 Sep 2017 12:01:07 GMT</pubDate>
+      <link>https://youtu.be/lP-uvmpwBOs</link>
+      <guid isPermaLink="true">https://youtu.be/lP-uvmpwBOs</guid>
+      <description><![CDATA[
+          <img src="https://ga-beacon.appspot.com/UA-52746336-1/web/videos/lP-uvmpwBOs?feed_type=rss&pixel">
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/lP-uvmpwBOs" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>In this video, Mat Scales talks you through how to build a photography app that works offline. Over the coming weeks Mat will talk you through the code you need to build your very own camera app.<br>
+<br>
+Next episode to be released on 9th October!<br>
+<br>
+Subscribe to the Chrome Developers channel for the latest videos here: http://goo.gl/LLLNvf<br>
+<br>
+Check out the code here: https://goo.gl/Kvrsor<br>
+<br>
+Watch other Developer Diaries, including how to build a website here:<br>
+https://goo.gl/sYoGKT
+        ]]></description>
+    </item>
+    <item>
+      <title>Learn How to Design -- Designer vs. Developer #10</title>
+      <pubDate>13 Sep 2017 12:00:32 GMT</pubDate>
+      <link>https://youtu.be/2hS6hO0AqIg</link>
+      <guid isPermaLink="true">https://youtu.be/2hS6hO0AqIg</guid>
+      <description><![CDATA[
+          <img src="https://ga-beacon.appspot.com/UA-52746336-1/web/videos/2hS6hO0AqIg?feed_type=rss&pixel">
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/2hS6hO0AqIg" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>Mustafa Kurtuldu speaks to Yasmine Evjen, a Design Advocate on the Google Design Relations Team, about learning design skills. They debate whether technical expertise helps or hinders the creative process.<br>
+<br>
+Designer Vs Developer is a show that tries to solve the challenges faced in the industry by opening a conversation between the two, providing take aways, solutions to workflows, tools & discussions on everyday struggles. <br>
+<br>
+For unedited conversations subscribe to or download our podcast from these services;<br>
+iTunes: https://goo.gl/1E9U0G <br>
+Google Music: https://goo.gl/qCBlST (USA ONLY)<br>
+Web Fundamentals: https://goo.gl/Kt3nE9<br>
+Feedburner: https://goo.gl/USHXv8<br>
+<br>
+Read our blog post here: <br>
+https://goo.gl/WUz386<br>
+<br>
+Learn more about the subjects mentioned in our video:<br>
+Overview of Design & UI: <br>
+https://goo.gl/VQX1sm<br>
+<br>
+Design Sprint Kit:<br>
+https://goo.gl/yWA5zt<br>
+<br>
+Crazy 8’s sketching:<br>
+https://goo.gl/jYGqAn<br>
+<br>
+Watch the rest of the series: https://goo.gl/eIk8r6<br>
+<br>
+Subscribe to the Chrome Developers Channel: http://goo.gl/LLLNvf
+        ]]></description>
+    </item>
+    <item>
+      <title>Dockerize your app: Micro Tip #16 - Supercharged</title>
+      <pubDate>21 Sep 2017 12:04:37 GMT</pubDate>
+      <link>https://youtu.be/06pkOtDLpmI</link>
+      <guid isPermaLink="true">https://youtu.be/06pkOtDLpmI</guid>
+      <description><![CDATA[
+          <img src="https://ga-beacon.appspot.com/UA-52746336-1/web/videos/06pkOtDLpmI?feed_type=rss&pixel">
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/06pkOtDLpmI" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>Surma shows you how you can use Docker to make sure you have a consistent runtime environment.<br>
+<br>
+If you have questions or suggestions, hit us up on Twitter!<br>
+Surma: https://twitter.com/DasSurma<br>
+<br>
+Watch more episodes of Supercharged here: https://goo.gl/WFD8py<br>
+Subscribe to the Chrome Developers channel at http://goo.gl/LLLNvf
+        ]]></description>
+    </item>
+    <item>
+      <title>Totally Tooling Tips: Lighthouse</title>
+      <pubDate>08 Sep 2017 13:05:57 GMT</pubDate>
+      <link>https://youtu.be/d98CAgQNeaM</link>
+      <guid isPermaLink="true">https://youtu.be/d98CAgQNeaM</guid>
+      <description><![CDATA[
+          <img src="https://ga-beacon.appspot.com/UA-52746336-1/web/videos/d98CAgQNeaM?feed_type=rss&pixel">
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/d98CAgQNeaM" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>Lighthouse is a tool that runs your site through a set of tests and audits to see how your site is doing in terms of PWA support, Accessibility and performance.<br>
+<br>
+In this episode, Matt and Addy chat with Eric Bidelman, one of the core contributors of Lighthouse, about what the Lighthouse team has been working on lately.<br>
+<br>
+Watch more episodes of Totally Tooling Tips here: https://goo.gl/IoXka7?<br>
+<br>
+Subscribe to the Chrome Developers channel at http://goo.gl/LLLNvf
+        ]]></description>
+    </item>
+    <item>
+      <title>ES6 Modules: Micro Tip #15 - Supercharged</title>
+      <pubDate>14 Sep 2017 12:00:15 GMT</pubDate>
+      <link>https://youtu.be/GWmO88hBbKY</link>
+      <guid isPermaLink="true">https://youtu.be/GWmO88hBbKY</guid>
+      <description><![CDATA[
+          <img src="https://ga-beacon.appspot.com/UA-52746336-1/web/videos/GWmO88hBbKY?feed_type=rss&pixel">
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/GWmO88hBbKY" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>Surma shows you how to progressively enhance for browsers with native module support.<br>
+<br>
+If you have questions or suggestions, hit us up on Twitter!<br>
+Surma: https://twitter.com/DasSurma<br>
+<br>
+Watch more episodes of Supercharged here: https://goo.gl/WFD8py<br>
+Subscribe to the Chrome Developers channel at http://goo.gl/LLLNvf
+        ]]></description>
+    </item>
+    <item>
+      <title>Font-Display: Micro Tip #14 - Supercharged</title>
+      <pubDate>07 Sep 2017 12:03:43 GMT</pubDate>
+      <link>https://youtu.be/-lPTshDcr7o</link>
+      <guid isPermaLink="true">https://youtu.be/-lPTshDcr7o</guid>
+      <description><![CDATA[
+          <img src="https://ga-beacon.appspot.com/UA-52746336-1/web/videos/-lPTshDcr7o?feed_type=rss&pixel">
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/-lPTshDcr7o" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>Surma shows you how a new CSS directive allows you to improve loading performance when you use web fonts.<br>
+<br>
+Read more here: https://goo.gl/fO7L9e<br>
+<br>
+If you have questions or suggestions, hit us up on Twitter!<br>
+Surma: https://twitter.com/DasSurma<br>
+<br>
+Watch more episodes of Supercharged here: https://goo.gl/WFD8py<br>
+Subscribe to the Chrome Developers channel at http://goo.gl/LLLNvf
+        ]]></description>
+    </item>
+    <item>
+      <title>Chrome 61: JavaScript Modules, WebUSB, WebShare and more</title>
+      <pubDate>05 Sep 2017 15:00:59 GMT</pubDate>
+      <link>https://youtu.be/2vJm1Gfn0ng</link>
+      <guid isPermaLink="true">https://youtu.be/2vJm1Gfn0ng</guid>
+      <description><![CDATA[
+          <img src="https://ga-beacon.appspot.com/UA-52746336-1/web/videos/2vJm1Gfn0ng?feed_type=rss&pixel">
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/2vJm1Gfn0ng" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>Chrome 61 now supports JavaScript modules natively, unifying the way modular JavaScript can be written. You can now use navigator dot share to trigger the native Android share dialog. And the WebUSB API has landed, allowing web apps to access user permitted USB devices.<br>
+<br>
+Pete LePage has all the details and how you can use these new developer features in Chrome 61!<br>
+<br>
+Chrome 61 Beta blog post: https://goo.gl/1mpPoF<br>
+<br>
+Modules<br>
+https://goo.gl/XO5nLF<br>
+https://goo.gl/TvdUmD<br>
+https://goo.gl/8GnbJu<br>
+<br>
+Web Share<br>
+https://goo.gl/bHfO86<br>
+<br>
+WebUSB<br>
+https://goo.gl/Tb5zfq<br>
+https://goo.gl/1ULm2v<br>
+<br>
+You can learn more about origin trials at https://goo.gl/6FP1a5<br>
+<br>
+Subscribe to the Google Developers channel at https://goo.gl/WkxCU5
+        ]]></description>
+    </item>
+    <item>
+      <title>How to Label Custom Elements - A11ycasts #24</title>
+      <pubDate>01 Sep 2017 12:59:10 GMT</pubDate>
+      <link>https://youtu.be/7a6bLXw2lqQ</link>
+      <guid isPermaLink="true">https://youtu.be/7a6bLXw2lqQ</guid>
+      <description><![CDATA[
+          <img src="https://ga-beacon.appspot.com/UA-52746336-1/web/videos/7a6bLXw2lqQ?feed_type=rss&pixel">
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/7a6bLXw2lqQ" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>Custom Elements are a very cool new set of technologies that let developers define their own HTML tags. But when we create new elements, we need to make sure they include all of the same usability and accessibility affordances as the built-in tags. Today we'll be talking about labeling, and how you can make sure your custom elements have a properly computed accessible name.<br>
+<br>
+The art of labeling: https://goo.gl/ZfjvRb<br>
+<br>
+How to enable accessibility inspection in the DevTools: https://goo.gl/aHybFr<br>
+<br>
+HowTo: Components on GitHub: https://goo.gl/mxz7kM<br>
+<br>
+HowTo: Components - Overview: https://goo.gl/zVGRo2<br>
+<br>
+Pull request for howto-label on GitHub: https://goo.gl/vE8BWL<br>
+<br>
+Watch all A11ycasts episodes: https://goo.gl/06qEUW<br>
+<br>
+Subscribe to the Chrome Developers YouTube channel for updates on new episodes of A11ycasts: http://goo.gl/LLLNvf
+        ]]></description>
+    </item>
+    <item>
+      <title>Async-Await: Micro Tip #13 - Supercharged</title>
+      <pubDate>31 Aug 2017 11:59:40 GMT</pubDate>
+      <link>https://youtu.be/RVIxnSdIMKY</link>
+      <guid isPermaLink="true">https://youtu.be/RVIxnSdIMKY</guid>
+      <description><![CDATA[
+          <img src="https://ga-beacon.appspot.com/UA-52746336-1/web/videos/RVIxnSdIMKY?feed_type=rss&pixel">
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/RVIxnSdIMKY" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>Mat shows you a small mistake that can sneak into your code when using async/await and how to fix it!<br>
+<br>
+If you have questions or suggestions, hit us up on Twitter!<br>
+Surma: https://twitter.com/DasSurma<br>
+Mat: https://twitter.com/wibblymat<br>
+<br>
+Watch more episodes of Supercharged here: https://goo.gl/WFD8py<br>
+Subscribe to the Chrome Developers channel at http://goo.gl/LLLNvf
+        ]]></description>
+    </item>
+    <item>
+      <title>Polymer Summit 2017 Highlights</title>
+      <pubDate>25 Aug 2017 05:56:25 GMT</pubDate>
+      <link>https://youtu.be/TDpiyrcOO30</link>
+      <guid isPermaLink="true">https://youtu.be/TDpiyrcOO30</guid>
+      <description><![CDATA[
+          <img src="https://ga-beacon.appspot.com/UA-52746336-1/web/videos/TDpiyrcOO30?feed_type=rss&pixel">
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/TDpiyrcOO30" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>Polymer Summit 2017 was great! If you missed it, here’s a recap of some of the cool stuff that happened during the two days of talks, codelabs, and Q&A’s. <br>
+<br>
+Also, we recorded all the sessions - check out the Polymer Summit 2017 playlist here: https://goo.gl/KuiAXd<br>
+<br>
+Subscribe to the Google Chrome Developers channel for more of the latest developer content for the web: http://goo.gl/LLLNvf
+        ]]></description>
+    </item>
+    <item>
+      <title>Totally Tooling Tips: GitHub Workflow Pro-Tips</title>
+      <pubDate>25 Aug 2017 13:00:08 GMT</pubDate>
+      <link>https://youtu.be/NhlzMcSyQek</link>
+      <guid isPermaLink="true">https://youtu.be/NhlzMcSyQek</guid>
+      <description><![CDATA[
+          <img src="https://ga-beacon.appspot.com/UA-52746336-1/web/videos/NhlzMcSyQek?feed_type=rss&pixel">
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/NhlzMcSyQek" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>Learn how to effectively manage your GitHub issues, discover tools for keeping your repo dependencies automatically up to date and more in this GitHub workflow episode with Matt and Addy.<br>
+<br>
+Links:<br>
+https://octobox.io/<br>
+https://hub.github.com/<br>
+https://greenkeeper.io/<br>
+https://gitpoint.co/<br>
+https://www.sourcetreeapp.com/<br>
+https://www.git-tower.com/mac/<br>
+<br>
+Watch more episodes of Totally Tooling Tips here: https://goo.gl/IoXka7?<br>
+<br>
+Subscribe to the Chrome Developers channel at http://goo.gl/LLLNvf
+        ]]></description>
+    </item>
+  </channel>
+</rss>
